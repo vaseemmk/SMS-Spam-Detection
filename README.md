@@ -1,5 +1,3 @@
-# Machine-Learning-Projects
-## I have written few Machine Learning Projects on Python using Jupyter Notebook. 
-* Credit Card Fraud Detection using Supervised ML model
-* Credit Card Fraud Detection using Unsupervised ML model
-* Spam Detection using Natural Language Processing
+#### Spam Detection using Python NLTK Natural Language Processing Library
+#### The data was sourced from UCI.edu database.
+#### I have utilized multiple Machine Learning models but finalzed Random Forest for its highest accuracy. 
